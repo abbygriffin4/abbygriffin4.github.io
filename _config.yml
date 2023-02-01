@@ -12,6 +12,8 @@
 # Name of website
 title: Abigail Griffin
 
+cover-img: "/assets/img/midd.jpeg"
+
 # Your name to show in the footer
 author: Abigail Griffin
 
@@ -21,10 +23,9 @@ author: Abigail Griffin
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Resume:
+    - Resume: "https://beautifuljekyll.com"
+    - LinkedIn: "https://linkedin.com/abigail-griffin-/"
 
 ################
 # --- Logo --- #
@@ -37,7 +38,6 @@ avatar: "/assets/img/abby.png"
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
 
-cover-img: "/assets/img/midd.jpeg"
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -78,7 +78,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
@@ -127,7 +127,7 @@ navbar-var-length: false
 navbar-col: "#87CEEB"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-page-col: "#B0E0E6"
+page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
@@ -141,7 +141,7 @@ footer-hover-col: "#0085A1"
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
-#page-img: "/assets/img/bgimage.png"
+page-img: "/assets/img/midd.jpeg"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
