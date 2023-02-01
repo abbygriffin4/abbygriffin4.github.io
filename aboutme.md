@@ -3,6 +3,7 @@ layout: page
 title: About me
 subtitle: Abigail Griffin, Middlebury College '23
 ---
+
 ### A little about me
 <center>
 ![](assets/img/abbyposter.png){width=50%}
