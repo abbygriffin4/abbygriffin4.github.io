@@ -1,16 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Abigail Griffin, Middlebury College '23
 ---
+### A little about me
+My name is Abigail Griffin and I am a senior at Middlebury College studying Neuroscience and Sociology. On campus, I work as a Research Assistant in a Neuroendocrinology lab, as a barista at Crossroads Cafe, and am a board member for Middlebury College Access Mentors.
+When I'm not in class, I love spending my time running or biking and listening to music (specifically SZA, Florence + the Machine, and Spacey Jane).
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
