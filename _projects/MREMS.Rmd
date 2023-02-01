@@ -1,0 +1,10 @@
+---
+title: "MREMS, Lead Intern"
+subtitle: "Middlebury, VT, 2022"
+author: "Abigail Griffin"
+date: "`r Sys.Date()`"
+output: html_document
+image: '/assets/abbyposter.png'
+---
+Elected lead intern by Health Professions Committee
+Maintained healthy group culture, managed transportation, and provided peer academic support for twenty students in an accelerated EMT-B certification course

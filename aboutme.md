@@ -6,7 +6,7 @@ subtitle: Abigail Griffin, Middlebury College '23
 
 ### A little about me
 <center>
-![](assets/img/abbyposter.png){width=50%}
+<img src= "/img/abbyposter.png" alt= "Poster Session at Society for Neuroscience 2022">
 </center>
 
 My name is Abigail Griffin and I am a senior at Middlebury College studying Neuroscience and Sociology. On campus, I work as a Research Assistant in a Neuroendocrinology lab, as a barista at Crossroads Cafe, and am a board member for Middlebury College Access Mentors.
