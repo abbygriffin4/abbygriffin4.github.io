@@ -21,12 +21,12 @@ author: Abigail Griffin
 ###############################################
 
 navbar-links:
-  About: "aboot"
-  About Me: "aboutme"
+  About: "aboutpage"
   CV: "cv"
-  Resume:
-    - Resume: "https://beautifuljekyll.com"
+  Links:
+    - My Lab Webpage: "https://spritzerlab.middcreate.net/"
     - LinkedIn: "www.linkedin.com/in/abigail-griffin-"
+  Contact: "contact"
 
 ################
 # --- Logo --- #
@@ -55,7 +55,7 @@ social-network-links:
   email: "agriffin@middlebury.edu"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: abbygriffin.github.io
-  linkedin: linkedin.com/abigail-griffin-
+  linkedin: linkedin.com/in/abigail-griffin-
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
