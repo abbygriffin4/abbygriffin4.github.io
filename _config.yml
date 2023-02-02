@@ -21,6 +21,7 @@ author: Abigail Griffin
 ###############################################
 
 navbar-links:
+About: "about"
   About Me: "aboutme"
   CV: "cv"
   Resume:
