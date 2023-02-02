@@ -12,7 +12,6 @@
 # Name of website
 title: Abigail Griffin
 
-cover-img: "/assets/img/midd.jpeg"
 
 # Your name to show in the footer
 author: Abigail Griffin
@@ -23,9 +22,10 @@ author: Abigail Griffin
 
 navbar-links:
   About Me: "aboutme"
+  CV: "cv"
   Resume:
     - Resume: "https://beautifuljekyll.com"
-    - LinkedIn: "https://linkedin.com/abigail-griffin-/"
+    - LinkedIn: "www.linkedin.com/in/abigail-griffin-"
 
 ################
 # --- Logo --- #
