@@ -14,6 +14,6 @@ When I'm not in class, I love spending my time running or biking and listening t
 
 <img src="assets/img/rstudio-icon.png" alt="R Studio icon" style="float:left;width:100px;height:100px;">
 
-I'm creating this webpage as a part of my final project for *Reproducible Biology in R*, a J-term course taught by Professor Ash. This month, we have spent time learning the basics of reproducible coding in R and RStudio, answering scientific questions using statistics, creating publication-quality figures, and learning the skills that enabled us to work on cool projects like this one! You can see more of my work [at this link.](https://abbygriffin4.github.io/bio_1007a/).
+I'm creating this webpage as a part of my final project for *Reproducible Biology in R*, a J-term course taught by Professor Ash. This month, we have spent time learning the basics of reproducible coding in R and RStudio, answering scientific questions using statistics, creating publication-quality figures, and learning the skills that enabled us to work on cool projects like this one! You can see more of my work [at this link](https://abbygriffin4.github.io/bio_1007a/).
 
 
